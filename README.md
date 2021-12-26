@@ -1,2 +1,1 @@
-# internationaldebt
-Analysis of international debt data collected by The World Bank from 1970 to 2015.
+Determined total debt owed per country, which country owed the maximum amount of debt, and average amount of debt owed by countries across debt indicators by analyzing international debt data collected by The World Bank from 1970 to 2015.
